@@ -35,10 +35,7 @@ This Python code implements a basic Restaurant Management System with features l
    pip install pandas numpy pyperclip webbrowser text-to-image maskpass mysql-connector-python
    ```
 
-2. **Create necessary directories:**
-   - Create a directory named `bills` in `C:/Users/<username>/Desktop/`.
-
-3. **Run the script:**
+2. **Run the script:**
    - Execute the Python script.
 
 **Usage:**
